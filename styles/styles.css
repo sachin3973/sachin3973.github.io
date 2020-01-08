@@ -41,12 +41,12 @@ img {
 
 .navbar a {
     float: left;
-    display: block;
+    display: flex;
     color: #f2f2f2;
     text-align: center;
-    padding: 18px 16px;
+    padding: 10px 16px;
     text-decoration: none;
-    font-size: 20px;
+    font-size: 24px;
 }
 
 .navbar a:hover {
