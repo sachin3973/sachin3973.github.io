@@ -19,7 +19,7 @@ h5 {
 }
 h1:hover {
     color: rgb(64, 150, 64);
-    text-shadow: 0 0 5px #4CAF50, 0 0 5px #white;
+    text-shadow: 0 0 5px #4CAF50, 0 0 5px white;
 }
 
 a {
@@ -34,7 +34,6 @@ img {
 .navbar {
     overflow: hidden;
     background-color: #4CAF50;
-    background-color: ;
     position: fixed;
     top: 0;
     width: 100%;
